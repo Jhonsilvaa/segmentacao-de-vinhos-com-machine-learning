@@ -52,9 +52,9 @@ Três métricas simultâneas para comparação robusta dos modelos:
 
 | Modelo | Silhouette | Calinski-Harabasz | Davies-Bouldin |
 |---|---|---|---|
-| KMeans | **0.57** | **1567** | **0.62** |
-| DBSCAN | 0.48 | 890 | 0.91 |
-| AgglomerativeClustering | 0.52 | 1102 | 0.78 |
+| KMeans | **0.52** | **4381** | **0.8775** |
+| DBSCAN | 0.8604 | 152 | 0.173 |
+| AgglomerativeClustering | 0.786 | 343.74 | 0.330 |
 
 ---
 
